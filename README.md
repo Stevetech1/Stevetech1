@@ -5,14 +5,14 @@
 
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.4b695f72ac7737ce5b36508a0058dd02?rik=OPpsrxwzNQF2Og&riu=http%3a%2f%2fwww.web24zone.com%2fwp-content%2fuploads%2f2022%2f10%2f46207-programmer-1.gif&ehk=86cfZHhLfMkMI2vzq55xQ1%2bJRsM99JQkgGiqUE7cTQE%3d&risl=&pid=ImgRaw&r=0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevetech1&label=Profile%20views&color=0e75b6&style=flat" alt="stevetech1" /> </p>
-<p align="left"> <a href="https://twitter.com/stevetech17" target="blank"><img src="https://img.shields.io/twitter/follow/stevetech17?logo=twitter&style=for-the-badge" alt="stevetech17" /></a> </p>
-- 🔭 I’m currently working on **Startup Landing page**
-- 🌱 I’m currently learning **Advance Python, JavaScript, and C**
-- 👯 I’m looking to collaborate on **Startup Gateway**
-- 🤝 I’m looking for help with **Backend**
-- 💬 Ask me about **SPSS, Power Bi, Excel, And PowerPoint**
-- 📫 How to reach me **steveojata54@gmail.com**
-<h3 align="left">Connect with me:</h3>
+<p align="left"> <a href="https://twitter.com/stevetech17" target="blank"><img src="https://img.shields.io/twitter/follow/stevetech17?logo=twitter&style=for-the-badge" alt="stevetech17" /></a> </p><br>
+- 🔭 I’m currently working on **Startup Landing page**<br>
+- 🌱 I’m currently learning **Advance Python, JavaScript, and C**<br>
+- 👯 I’m looking to collaborate on **Startup Gateway**<br>
+- 🤝 I’m looking for help with **Backend**<br>
+- 💬 Ask me about **SPSS, Power Bi, Excel, And PowerPoint**<br>
+- 📫 How to reach me **steveojata54@gmail.com**<br>
+<h3 align="left">Connect with me:</h3><br>
 <p align="left">
 <a href="https://twitter.com/stevetech17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stevetech17" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/steve-ojata-6032b0229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="steve-ojata-6032b0229" height="30" width="40" /></a>
