@@ -1,4 +1,4 @@
-[![Masterhead](https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I)](https://Stevetech1.io)
+[![Masterhead](https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I)](https://Stevetech1)
 
 <h1 align="center">Hi 👋, I'm Steve Ojata</h1>
 <h3 align="center">A passionate full stack software engineer from Nigeria, I'm currently a full stack software engineer student @ALX, a Data Analyst using SPSS, Power Bi and python, I am a business coach and mentor, I'm open to collaboration on any of the above mentioned.
