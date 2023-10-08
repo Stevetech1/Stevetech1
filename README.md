@@ -3,8 +3,10 @@
 <h1 align="center"> Hi 👋, I'm Steve Ojata</h1>
 <h3 align="center"> A passionate full stack software engineer from Nigeria, I'm currently a full stack software engineering student @ALX, a Data Analyst using SPSS, Power Bi and python, a media crew (an exceptional camera control guy), a business coach and mentor, I'm open to collaboration on any of the above mentioned.<br>
 
-<img align="right" alt="coding" width="600" src="https://th.bing.com/th/id/R.4b695f72ac7737ce5b36508a0058dd02?rik=OPpsrxwzNQF2Og&riu=http%3a%2f%2fwww.web24zone.com%2fwp-content%2fuploads%2f2022%2f10%2f46207-programmer-1.gif&ehk=86cfZHhLfMkMI2vzq55xQ1%2bJRsM99JQkgGiqUE7cTQE%3d&risl=&pid=ImgRaw&r=0">
+<img align="right" alt="coding" width="600" src="https://th.bing.com/th/id/R.4b695f72ac7737ce5b36508a0058dd02?rik=OPpsrxwzNQF2Og&riu=http%3a%2f%2fwww.web24zone.com%2fwp-content%2fuploads%2f2022%2f10%2f46207-programmer-1.gif&ehk=86cfZHhLfMkMI2vzq55xQ1%2bJRsM99JQkgGiqUE7cTQE%3d&risl=&pid=ImgRaw&r=0"><br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevetech1&label=Profile%20views&color=0e75b6&style=flat" alt="stevetech1" /> </p>
+<br>
 <p align="left"> <a href="https://twitter.com/stevetech17" target="blank"><img src="https://img.shields.io/twitter/follow/stevetech17?logo=twitter&style=for-the-badge" alt="stevetech17" /></a> </p><br>
 
 <p align="left">
