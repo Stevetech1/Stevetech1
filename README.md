@@ -14,9 +14,9 @@
 - I’m currently working on Startup Landing page<br>
 - I’m currently learning Advance Python, JavaScript, and C<br>
 - I’m looking to collaborate on Startup Gateway<br>
-- I’m looking for help with Backend<br>
-- Ask me about SPSS, Power Bi, Excel, And PowerPoint<br>
-- How to reach me steveojata54@gmail.com<br>
+- I’m looking for help with Backend full stack implementation<br>
+- Ask me about HTML, CSS, JavaScript, SPSS, Power Bi, Excel, And PowerPoint<br>
+- How to reach me @steveojata54@gmail.com <br>
 </p><br>
 
 <h3 align="left">Connect with me:</h3><br>
