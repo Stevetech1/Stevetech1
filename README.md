@@ -16,7 +16,7 @@
 - I’m looking to collaborate on Startup Gateway<br>
 - I’m looking for help with Backend full stack implementation<br>
 - Ask me about HTML, CSS, JavaScript, SPSS, Power Bi, Excel, And PowerPoint<br>
-- How to reach me ##steveojata54@gmail.com<br>
+- How to reach me <a href="https://gmail.com/steveojata54@gmail.com">steveojata54@gmail.com</a><br>
 </p><br>
 
 <h3 align="left">Connect with me:</h3><br>
