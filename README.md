@@ -1,7 +1,7 @@
 [![Masterhead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjA4eXYyMzU1aThydzRyamcyZ295NWQ2c3htYWo3NzVoNzFud2dlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif)](https://Stevetech1.io)
 
 <h1 align="center"> Hi 👋, I'm Steve Ojata</h1>
-<h3 align="center"> A passionate full stack software engineer from Nigeria, I'm currently a full stack software engineering student @ALX, a Data Analyst using SPSS, Power Bi and python, a media crew (an exceptional camera control guy), a business coach and mentor, I'm open to collaboration on any of the above mentioned.</h3><br>
+<h3 align="center"> A passionate full stack software engineer from Nigeria, I'm currently a full stack software engineering student @ALX, a Data Analyst using SPSS, Power Bi, Microsoft Excel and python, proficient in MYSQL Database, HTML5, CSS and Reactjs, Digital Marketing expert with certification a media crew (an exceptional camera control guy), a business coach/mentor, I'm open to collaboration on any of the above mentioned.</h3><br>
 
 <img align="right" alt="coding" width="600" src="https://th.bing.com/th/id/R.4b695f72ac7737ce5b36508a0058dd02?rik=OPpsrxwzNQF2Og&riu=http%3a%2f%2fwww.web24zone.com%2fwp-content%2fuploads%2f2022%2f10%2f46207-programmer-1.gif&ehk=86cfZHhLfMkMI2vzq55xQ1%2bJRsM99JQkgGiqUE7cTQE%3d&risl=&pid=ImgRaw&r=0"><br>
 
@@ -12,7 +12,7 @@
 
 <p align="left">
 - I’m currently working on Startup Landing page<br>
-- I’m currently learning Advance Python, JavaScript, and C<br>
+- I’m currently learning Advance Python, JavaScript, nodejs and C++,<br>
 - I’m looking to collaborate on Startup Gateway<br>
 - I’m looking for help with Backend full stack implementation<br>
 - Ask me about HTML, CSS, JavaScript, SPSS, Power Bi, Excel, And PowerPoint<br>
